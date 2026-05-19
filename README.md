@@ -7,5 +7,9 @@ How to create a Server with Express + Node:
 - and install "express" to download its packages
     npm i express
 
+
+# Make sure to change the type to module inside your package.json after your initialization (npm init)
+                    "type": "module",
+                    
 Run this code locally and use "node index.js" to start it in my terminal
 
